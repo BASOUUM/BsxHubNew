@@ -11,3 +11,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/S
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BASOUUM/BsxHubNew/main/Emotes_1.lua"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BASOUUM/BsxHubNew/main/Emotes_2.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BASOUUM/BsxHubNew/main/Vfly.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BASOUUM/BsxHubNew/main/Lock.lua"))()
