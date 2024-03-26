@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("TEXT_BSM"))()
+loadstring(game:HttpGet(""))()
