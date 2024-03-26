@@ -3,3 +3,11 @@ loadstring(game:HttpGet(""))()
 loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Ice-Hub-6414"))()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BASOUUM/BsxHubNew/main/Fly.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/SimpleSpyV3/main.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BASOUUM/BsxHubNew/main/Emotes_1.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BASOUUM/BsxHubNew/main/Emotes_2.lua"))()
